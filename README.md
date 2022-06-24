@@ -1,9 +1,11 @@
 # LUGAS
 
-Als Anbieter von Compliance-Lösungen berät und unterstützt sie DataRIG bei der Anbindung 
-ihrer Systeme an das Länderübergreifende Glücksspielaufsichtssystem (LUGAS), denn eine 
-regelkonforme Integration und ein zuverlässiger Betrieb sollte man besser nicht dem Glück
-überlassen.
+Als Anbieter von Compliance-Lösungen berät und unterstützt sie [DataRIG Data Solutions 
+and Technology][datarig] bei der Anbindung ihrer Systeme an das Länderübergreifende 
+Glücksspielaufsichtssystem (LUGAS), denn eine regelkonforme Integration und ein 
+zuverlässiger Betrieb sollte man besser nicht dem Glück überlassen.
+
+[datarig]: https://datarig.de
 
 ## Neuregulierung des Glücksspielwesens
 

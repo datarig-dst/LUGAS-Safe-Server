@@ -1,7 +1,7 @@
 # LUGAS
 
-Als Anbieter von Compliance-Lösungen berät und unterstützt sie [DataRIG Data Solutions 
-and Technology][datarig] bei der Anbindung ihrer Systeme an das Länderübergreifende 
+Als Anbieter von Compliance-Lösungen berät und unterstützt sie [DataRIG – Data-Solutions 
+and -Technology][datarig] bei der Anbindung ihrer Systeme an das Länderübergreifende 
 Glücksspielaufsichtssystem (LUGAS), denn eine regelkonforme Integration und ein 
 zuverlässiger Betrieb sollte man besser nicht dem Glück überlassen.
 
@@ -9,7 +9,7 @@ zuverlässiger Betrieb sollte man besser nicht dem Glück überlassen.
 
 ## Neuregulierung des Glücksspielwesens
 
-Ab dem 1. Juli 2021 erfolgt die Überwachung des Online-Glücksspielmarktes in Deutschland 
+Seit dem 1. Juli 2021 erfolgt die Überwachung des Online-Glücksspielmarktes in Deutschland 
 durch informationstechnische Systeme auf Grundlage des *Staatsvertrag zur Neuregulierung 
 des Glücksspielwesens in Deutschland* – kurz [Glücksspielstaatsvertrag 2021 – GlüStV 2021][glustv] 
 – vom 29. Oktober 2020.
